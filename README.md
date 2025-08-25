@@ -1,6 +1,6 @@
 # Dukyoung File - 간편하고 안전한 파일 공유 서비스
 
-![Dukyoung File Banner](./banner-image.png) <!-- 필요 시 이미지 추가 -->
+![Dukyoung File Banner](https://i.namu.wiki/i/ObQ4LgeNZBe9Mz-E8da2_QVnq2TP-xoSU0cNj9m3c5rnVv0k1ag1X9W9a28WTtUTeksCmHmOFhBjtyBrgR3k-Q.png) <!-- 필요 시 이미지 추가 -->
 
 ## 서비스 소개
 

@@ -38,8 +38,8 @@
 
 ## 개발자 및 연락처
 
-덕영고등학교 IT 개발팀  
-문의 및 제안: it-support@dyhs.kr
+덕영고등학교 개발팀: NiceTop
+문의 및 제안: mistarcodm@gmail.com
 
 ---
 
